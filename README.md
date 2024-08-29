@@ -126,3 +126,7 @@ The domains below this are under maintenance. Some may work
 1. https://microstudio.dev/explore/
 2. https://flowlab.io/
 3. https://dbpsmath.github.io/
+
+# HOW TO DOWNLOAD GAMES!
+1. Click The Green Button That Says Code.
+2. The Click Download ZIP.
